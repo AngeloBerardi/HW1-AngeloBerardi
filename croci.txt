@@ -1,1 +1,0 @@
-    ^(<                         # starting point    ([a-zA-Z]+[0-9-._a-zA-Z]*)  # username    @                           # @ symbol    ([a-zA-Z]+)                 # domain name    \.                          # dot    ([a-zA-Z]{,3})              # extension    >)$                         # ending point#0.829156197589
